@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**yosbergc/yosbergc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola soy Bytdev 👋
 
-Here are some ideas to get you started:
+Apasionado por la creación de aplicaciones web. Aprendiendo JavaScript para construir experiencias interactivas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Próximamente explorando React y con la mirada puesta en el backend. 🚀💻
+
+- Desarrollador frontend en proceso de aprendizaje.
+- Siempre buscando el punto y coma perdido en CSS.
+## 🔗 Enlaces / Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosbergc/)
+[![twitter](https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bytdeveloper)
+[![instagram](https://img.shields.io/badge/Instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/bytdeveloper)
+
